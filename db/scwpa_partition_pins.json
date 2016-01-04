@@ -1,0 +1,13 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "clock_50",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
